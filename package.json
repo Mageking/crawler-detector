@@ -1,0 +1,21 @@
+{
+  "name": "crawler-detector",
+  "version": "0.0.1",
+  "author": "Que Ndebele",
+  "description": "Detects if user agent belongs to a crawler",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geometria-lab/crawler-user-agents.git"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "dependencies": {
+    "crawler-user-agents": "0.0.1",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
