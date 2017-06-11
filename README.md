@@ -17,7 +17,7 @@ Example:
       res.send('this is not a crawler');
     })
 
-The module is under a [CC-SA](http://creativecommons.org/licenses/by-sa/3.0/) license.
+The module is under a [MIT License](https://opensource.org/licenses/MIT).
 
 --Que
 
