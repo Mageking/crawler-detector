@@ -2,7 +2,7 @@
   "name": "crawler-detector",
   "version": "0.0.2",
   "author": "Que Ndebele",
-  "description": "Detects if user agent belongs to a crawler",
+  "description": "This module helps detect if a user agent derives from known robots/crawlers/spiders",
   "repository": {
     "type": "git",
     "url": "https://github.com/Mageking/crawler-detector.git"
