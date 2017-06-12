@@ -1,6 +1,6 @@
 'use strict';
 
-var crawlerUserAgents = require('./node_modules/crawler-user-agents/crawler-user-agents.json');
+var crawlerUserAgents = require('./crawler-user-agents.json');
 var _ = require('lodash');
 
 module.exports = {

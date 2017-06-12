@@ -1,7 +1,6 @@
 
 This module helps detect if a user agent derives from known robots/crawlers/spiders.
 
-The module is dependent on the crawler list provided in [https://github.com/monperrus/crawler-user-agents](https://github.com/monperrus/crawler-user-agents)
 
 Example:
 
